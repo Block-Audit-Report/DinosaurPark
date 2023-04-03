@@ -1,1 +1,3 @@
-# DinosaurPark![Certificate_Dinosaur Park](https://user-images.githubusercontent.com/81981737/147684807-0e61cfc4-ea13-4ed8-8079-0dc30d70b54a.jpg)
+# DinosaurPark!
+
+![dinosaurpark](https://user-images.githubusercontent.com/121312707/229458950-8956e5a6-623b-4533-9400-5f960ea434e4.png)
